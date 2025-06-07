@@ -40,3 +40,4 @@ def list_files_in_directory(directory: str) -> list:
         return []
     
     return [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
+# laotie 666
