@@ -25,3 +25,5 @@ def ensure_directory_exists(directory: str) -> None:
         print(f"Directory '{directory}' created.")
     else:
         print(f"Directory '{directory}' already exists.")
+
+# laotie 666
